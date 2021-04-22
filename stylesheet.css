@@ -1,0 +1,67 @@
+ fieldset {
+      background-color: rgb(251, 251, 207);
+      border: 1px solid rgb(24, 46, 0);
+      margin: 20px 0px 40px 2.5%;
+      width: 25%;
+      
+    }
+
+    legend {
+      background-color: rgb(0, 0, 255);
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 0.9em;
+      color: white;
+      padding: 3px 0px;
+      text-indent: 5px;
+      width: 99%;
+
+    }
+
+    button:hover {
+      background-color: green;
+
+    }
+
+    label {
+      clear: left;
+      display: block;
+      float: left;
+      font-size: 0.9em;
+      margin: 7px 4% 7px 5px;
+      width: 40%;
+
+    }
+
+    button {
+      float: left;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 0.9em;
+      margin: 10px 5px;
+      width: 35%;
+      background-color: rgb(0, 0, 255);
+      border-radius: 10px;
+      border: 4px double #cccccc;
+      color: #eeeeee;
+      text-align: center;
+
+    }
+
+    #state {
+      width: 50px;
+
+    }
+
+    select {
+      display: block;
+      float: left;
+      font-size: 0.9em;
+      margin: 7px 0px;
+
+    }
+
+    #correct {
+      font-size: 0.9em;
+      background-color: rgba(233, 70, 0, 0.65);
+      width: 48%;
+
+    }
